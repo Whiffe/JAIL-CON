@@ -2,6 +2,7 @@ CSDN：[https://blog.csdn.net/WhiffeYF/article/details/154808231](https://blog.c
 
 arxiv：[https://arxiv.org/pdf/2510.21189](https://arxiv.org/pdf/2510.21189)
 
+b视频：[https://www.bilibili.com/video/BV1mcCyBkEj5/](https://www.bilibili.com/video/BV1mcCyBkEj5/)
 
 这段代码实现了一个名为`JAIL_CON`的攻击框架，用于测试大语言模型（LLM）对有害请求的防御能力。下面是对代码的详细解释：
 
